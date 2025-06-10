@@ -1,23 +1,19 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <rss version="2.0">
-
 <channel>
-
-
-<title>Constructed Resources</title>
-<link>https://constructedresources.buzzsprout.com</link>
-<description>Podcast que se centra en el mundo del juego de cartas coleccionables "Yu-Gi-Oh"</description>
-<copyright>Copyright © 2025 TCGplayer, Inc. All Rights Reserved.</copyright>
-
-<item>
-<title>Constructed Resources Episode 73: CR Returns</title>
-<link>https://constructedresources.buzzsprout.com/1210727/episodes/10304711-constructed-resources-episode-73-cr-returns</link>
-<description>Like Batman or the Jedi or uh, the cast of Cocoon, LSV and BK have RETURNED! There's tons to talk about between bans, set champs and Neon Dynasty! </description>
-<author>Luis Scott-Vargas and Andrew Baeckstrom</author>
-<pubDate>March 23, 2022</pubDate>
-<enclosure url="url del podcast" type="audio/ogg" length="3566"  />
-</item>
-
-
+    <title>Constructed Resources</title>
+    <link>https://constructedresources.buzzsprout.com</link>
+    <description>Podcast que se centra en el mundo del juego de cartas coleccionables "Yu-Gi-Oh"</description>
+    <copyright>All content © 2022 Constructed Resources</copyright>
+    <language>en</language>
+    
+    <item>
+        <title>Constructed Resources Episode 73: CR Returns</title>
+        <link>https://constructedresources.buzzsprout.com/1210727/episodes/10304711-constructed-resources-episode-73-cr-returns</link>
+        <description>Like Batman or the Jedi or uh, the cast of Cocoon, LSV and BK have RETURNED! There's tons to talk about between bans, set champs and Neon Dynasty! </description>
+        <author>Luis Scott-Vargas and Andrew Baeckstrom</author>
+        <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
+        <enclosure url="https://www.buzzsprout.com/1210727/episodes/10304711" type="audio/ogg" length="3566" />
+    </item>
 </channel>
 </rss>
