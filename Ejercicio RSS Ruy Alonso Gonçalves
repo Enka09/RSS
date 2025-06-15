@@ -1,19 +1,35 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<rss version="2.0">
+<?xml version=”1.0″ encoding=”UTF-8″ ?>
+<rss version=”2.0″>
+
 <channel>
-    <title>Constructed Resources</title>
-    <link>https://constructedresources.buzzsprout.com</link>
-    <description>Podcast que se centra en el mundo del juego de cartas coleccionables "Yu-Gi-Oh"</description>
-    <copyright>All content © 2022 Constructed Resources</copyright>
-    <language>en</language>
-    
-    <item>
-        <title>Constructed Resources Episode 73: CR Returns</title>
-        <link>https://constructedresources.buzzsprout.com/1210727/episodes/10304711-constructed-resources-episode-73-cr-returns</link>
-        <description>Like Batman or the Jedi or uh, the cast of Cocoon, LSV and BK have RETURNED! There's tons to talk about between bans, set champs and Neon Dynasty! </description>
-        <author>Luis Scott-Vargas and Andrew Baeckstrom</author>
-        <pubDate>Wed, 23 Mar 2022 00:00:00 +0000</pubDate>
-        <enclosure url="https://www.buzzsprout.com/1210727/episodes/10304711" type="audio/ogg" length="3566" />
-    </item>
+
+<title>El podcast de Radios Libres</title>
+<link>https://radioslibres.net/</link>;
+<description>Radios Libres presenta su podcast sobre radios comunitarias y tecnologías libres.</description>
+<copyright>CC 4.0 – BY-SA<copyright>
+
+<item>
+
+<title>Episodio 2 – Usa software libre en tu radio</title>
+<link>https://radioslibres.net/podcasts/episodio-2.html</link>;
+<description>Conoce todas las alternativas para liberar tu radio.</description>
+<author>Radios Libres</author>
+<pubDate>Thu, 12 Sep 2019</pubDate>
+<enclosure url=”https://radioslibres.net/podcasts/episodio2.ogg” type=”audio/ogg” length=”360″ />
+
+</item>
+
+<item>
+
+<title>Episodio 1 – Bienvenida</title>
+<link>https://radioslibres.net/podcasts/episodio-1.html</link>;
+<description>En el episodio inaugural de nuestro primer podcast les contaremos cómo será esta temporada.</description>
+<author>Radios Libres</author>
+<pubDate>Thu, 5 Sep 2019</pubDate>
+<enclosure url=”https://radioslibres.net/podcasts/episodio1.ogg” type=”audio/ogg” length=”300″ />
+
+</item>
+
 </channel>
+
 </rss>
